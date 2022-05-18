@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElizabethKudelia
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Node.js
+- 👀 
+- 🌱 
 
 <!---
 ElizabethKudelia/ElizabethKudelia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
