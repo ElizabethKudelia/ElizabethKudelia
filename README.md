@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElizabethKudelia
-- 👀 
-- 🌱 
+- 👀 I'm React.js developer
+- 🌱 Currentry interacting with Node.js
 
 <!---
 ElizabethKudelia is a ✨ special ✨ repository because it appears on your GitHub profile.
